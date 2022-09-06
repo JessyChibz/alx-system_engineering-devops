@@ -1,0 +1,2 @@
+#!/bin/basn
+find . -type d -not -name '.' | wc -1
